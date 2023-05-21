@@ -1,0 +1,39 @@
+.main {
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+}
+
+.main h1 {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  position: relative;
+  padding: 2rem
+}
+
+.container button {
+  padding: 1em 2em;
+  margin: 0.8rem;
+  font-weight: bold;
+}
+
+.noButton {
+  position: relative;
+  left: auto;
+  transition: left 0.3s ease;
+}
+
+@media (max-width: 500px) {
+
+  .container,
+  .main {
+    width: 100%;
+  }
+}
