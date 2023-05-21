@@ -22,12 +22,16 @@ export default function Home() {
     setButtonPosition(newButtonPosition);
   };
 
+  const handleYesButtonClick = () => {
+    alert("sdsdsd")
+  }
+
   return (
     <main className={styles.main}>
       <div className={styles.container}>
         <h1>FICA COMIGO ?</h1>
         <div>
-          <button>SIM</button>
+          <button onClick={handleYesButtonClick}>SIM</button>
           <button
             className={`${styles.button} ${styles.noButton}`}
             onClick={handleNoButtonClick}
