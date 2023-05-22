@@ -23,13 +23,13 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("sdsdsd")
+    alert("que sua semana seja abençoada e incrível assim como esse seu sorriso! 😊")
   }
 
   return (
     <main className={styles.main}>
       <div className={styles.container}>
-        <h1>FICA COMIGO ?</h1>
+        <h1>Quer ler a mensagem?</h1>
         <div>
           <button onClick={handleYesButtonClick}>SIM</button>
           <button
