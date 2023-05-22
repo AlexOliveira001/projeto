@@ -23,7 +23,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("que sua semana seja abençoada e incrível assim como esse seu sorriso! 😊")
+    alert("que sua semana seja abençoada e incrível assim como seu sorriso! 😊")
   }
 
   return (
