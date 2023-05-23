@@ -23,7 +23,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("Provérbios 3:15 - É mais preciosa do que rubis; nada do que você possa desejar se compara a ela.")
+    alert("Provérbios 3:15 - É mais preciosa do que rubis; nada do que você possa desejar se compara a ela.🤍")
   }
 
   return (
