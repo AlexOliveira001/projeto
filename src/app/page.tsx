@@ -23,7 +23,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("Provérbios 3:15 - É mais preciosa do que rubis; nada do que você possa desejar se compara a ela.🤍")
+    alert("Bom Dia, torço para que seu dia seja maravilhoso de incrível e que nada nem ninguem estraga ele. E que papai do ceu cuide de você! ❤️")
   }
 
   return (
