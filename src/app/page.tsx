@@ -23,7 +23,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("Bom Dia, torço para que seu dia seja maravilhoso de incrível e que nada nem ninguem estraga ele. E que papai do ceu cuide de você! ❤️")
+    alert("Boom Dia, torço para que seu dia seja maravilhoso de incrível e que nada nem ninguem estraga ele. E que papai do ceu cuide de você! ❤️")
   }
 
   return (
