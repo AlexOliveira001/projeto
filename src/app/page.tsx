@@ -23,7 +23,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("Boom Dia, torço para que seu dia seja maravilhoso de incrível e que nada nem ninguem estraga ele. E que papai do ceu cuide de você! ❤️")
+    alert("Cânticos 4:7 Você é toda linda, minha querida; em você não há defeito algum.")
   }
 
   return (
