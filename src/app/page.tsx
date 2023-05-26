@@ -23,7 +23,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("Cânticos 4:7 Você é toda linda, minha querida; em você não há defeito algum. 😊 ")
+    alert("Que seu dia seja repleto de coisa incríveis e que cada momento do dia acabe tirando um sorriso seu!🤍")
   }
 
   return (
