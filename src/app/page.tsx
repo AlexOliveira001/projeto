@@ -23,7 +23,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("Que seu dia seja repleto de coisa incríveis e que cada momento do dia acabe tirando um sorriso seu!🤍")
+    alert("Que seu sabádo seja maravilhoso de incrível, abençoado por papai do céu 🤍")
   }
 
   return (
