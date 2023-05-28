@@ -23,7 +23,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("Que seu sabádo seja maravilhoso de incrível, abençoado por papai do céu 🤍")
+    alert("Tenha um ótimo domingo, que ele seja magnífico e que você transborda a todas com sua alegria 🤍")
   }
 
   return (
