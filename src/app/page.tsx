@@ -23,7 +23,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("Que sua semana seja abençoada por papai do céu, que nada nem ninguem estraga seu dia maravilhoso 🤍")
+    alert("O seu sorriso tem, mais luz do que muitas estrelas ☺️")
   }
 
   return (
