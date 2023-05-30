@@ -1,8 +1,8 @@
 "use client"
-import styles from './page.module.css'
+import styles from '../page.module.css'
 import React, { useState } from 'react';
 
-export default function Home() {
+export default function pagina() {
 
   const [buttonPosition, setButtonPosition] = useState({
     top: 'auto',
@@ -32,7 +32,7 @@ export default function Home() {
       <div className={styles.container}>
         <h1>Quer ler a mensagem?</h1>
         <div>
-          <button onClick={handleYesButtonClick}>SIM</button>
+          <a href="https://www.youtube.com/watch?v=K-a8s8OLBSE" target="_blank">SIM</a>
           <button
             className={`${styles.button} ${styles.noButton}`}
             onClick={handleNoButtonClick}
