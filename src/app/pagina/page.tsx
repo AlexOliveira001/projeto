@@ -2,7 +2,7 @@
 import styles from '../page.module.css'
 import React, { useState } from 'react';
 
-export default function pagina() {
+export default function bianca() {
 
   const [buttonPosition, setButtonPosition] = useState({
     top: 'auto',
