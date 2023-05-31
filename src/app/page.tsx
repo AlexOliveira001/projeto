@@ -24,7 +24,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("O seu sorriso tem, mais luz do que muitas estrelas ☺️")
+    alert("Você é mais bela que um pôr-do-sol nas ilhas Maldivas. ☺️")
   }
 
   return (
