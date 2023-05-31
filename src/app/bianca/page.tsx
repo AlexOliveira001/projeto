@@ -30,7 +30,7 @@ export default function bianca() {
   return (
     <main className={styles.main}>
       <div className={styles.container}>
-        <h1>SIm ou Não?</h1>
+        <h1>Sim ou Não?</h1>
         <div>
           <a href="https://www.youtube.com/watch?v=K-a8s8OLBSE" target="_blank">SIM</a>
           <button
