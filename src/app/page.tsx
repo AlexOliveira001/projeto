@@ -24,7 +24,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("Você é mais bela que um pôr-do-sol nas ilhas Maldivas. ☺️")
+    alert("Cada dia que passa, você vai se tornando uma mulher incrível, forte, linda, alegre, dormioca, forte, carismatica, gentil e muito mais. Pois claro não posso esquecer dona de um sorriso, alma e uma olhar maravilhoso de lindo! ")
   }
 
   return (
