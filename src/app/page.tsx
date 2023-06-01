@@ -24,7 +24,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("Cada dia que passa, você vai se tornando uma mulher incrível, forte, linda, alegre, dormioca, forte, carismatica, gentil e muito mais. Pois claro não posso esquecer dona de um sorriso, alma e uma olhar maravilhoso de lindo! ")
+    alert("Cada dia que passa, você vai se tornando uma mulher incrível, forte, linda, alegre, dormioca, forte, carismatica, gentil e muito mais. Pois claro não posso esquecer dona de um sorriso, alma e uma olhar maravilhoso de lindo!❤️ ")
   }
 
   return (
