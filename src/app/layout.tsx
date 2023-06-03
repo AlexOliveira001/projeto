@@ -24,7 +24,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("Você é mais bela que um pôr-do-sol nas ilhas Maldivas.💙 ")
+    alert("Que sua sexta seja Incrível e abençoada por Deus. E que você aproveita bastante seu dia💙 ")
   }
 
   return (
