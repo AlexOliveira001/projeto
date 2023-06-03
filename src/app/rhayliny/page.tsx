@@ -24,7 +24,7 @@ export default function bianca() {
   };
 
   const handleYesButtonClick = () => {
-    alert("Você é mais bela que um pôr-do-sol nas ilhas Maldivas.☺️")
+    alert("Você é mais belo que um pôr-do-sol nas ilhas Maldivas.☺️")
   }
 
   return (

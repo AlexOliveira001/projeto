@@ -32,7 +32,7 @@ export default function Home() {
       <div className={styles.container}>
         <h1>Quer ler a mensagem?</h1>
         <div>
-        <button onClick={handleYesButtonClick}>SIM</button>
+          <button onClick={handleYesButtonClick}>SIM</button>
           <button
             className={`${styles.button} ${styles.noButton}`}
             onClick={handleNoButtonClick}
