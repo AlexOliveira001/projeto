@@ -24,7 +24,7 @@ export default function bianca() {
   };
 
   const handleYesButtonClick = () => {
-    alert("O seu sorriso tem, mais luz do que muitas estrelas ☺️")
+    alert("Você é mais bela que um pôr-do-sol nas ilhas Maldivas.☺️")
   }
 
   return (
@@ -32,7 +32,7 @@ export default function bianca() {
       <div className={styles.container}>
         <h1>Sim ou Não?</h1>
         <div>
-          <a href="https://www.youtube.com/watch?v=K-a8s8OLBSE" target="_blank">SIM</a>
+          <button onClick={handleYesButtonClick}>SIM</button>
           <button
             className={`${styles.button} ${styles.noButton}`}
             onClick={handleNoButtonClick}
