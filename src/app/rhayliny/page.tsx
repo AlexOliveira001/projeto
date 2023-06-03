@@ -2,7 +2,7 @@
 import styles from '../page.module.css'
 import React, { useState } from 'react';
 
-export default function bianca() {
+export default function rhayliny() {
 
   const [buttonPosition, setButtonPosition] = useState({
     top: 'auto',
@@ -24,13 +24,13 @@ export default function bianca() {
   };
 
   const handleYesButtonClick = () => {
-    alert("Você é mais belo que um pôr-do-sol nas ilhas Maldivas.☺️")
+    alert("Você é mais bela que um pôr-do-sol nas ilhas Maldivas.❤️")
   }
 
   return (
     <main className={styles.main}>
       <div className={styles.container}>
-        <h1>Sim ou Não?</h1>
+        <h1>Quer Ler a mensagem?</h1>
         <div>
           <button onClick={handleYesButtonClick}>SIM</button>
           <button
