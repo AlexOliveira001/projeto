@@ -24,7 +24,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("Que sua sexta seja Incrível e abençoada por Deus. E que você aproveita bastante seu dia💙 ")
+    alert("O sonho é meu, mas a única pessoa capaz de realizar é você.😊 ")
   }
 
   return (
