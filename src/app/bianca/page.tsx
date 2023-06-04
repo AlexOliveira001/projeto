@@ -1,5 +1,5 @@
 "use client"
-import styles from 'page.module.css'
+import styles from './page.module.css'
 import React, { useState } from 'react';
 
 export default function Home() {
@@ -24,7 +24,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("Você é mais bela que um pôr-do-sol nas ilhas Maldivas.💙 ")
+    alert("O sonho é meu, mas a única pessoa capaz de realizar é você.😊 ")
   }
 
   return (
