@@ -24,7 +24,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("O sonho é meu, mas a única pessoa capaz de realizar é você.😊 ")
+    alert("Que sua semana seja abençoada por Deus e que você nunca desiste de almejar seus objetivos! ❤️ ")
   }
 
   return (

@@ -24,7 +24,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("Você é mais bela que um pôr-do-sol nas ilhas Maldivas.😊 ")
+    alert("Você tenha uma semana e uma segunda incrível assim como você é como pessoa!❤️  ")
   }
 
   return (
