@@ -32,7 +32,7 @@ export default function Home() {
       <div className={styles.container}>
         <h1>Ir PRO Site?</h1>
         <div>
-        <a href="https://www.youtube.com/watch?v=K-a8s8OLBSE" target="_blank">SIM</a>
+        <a href="https://www.lavita.com.br/" target="_blank">SIM</a>
           <button
             className={`${styles.button} ${styles.noButton}`}
             onClick={handleNoButtonClick}
