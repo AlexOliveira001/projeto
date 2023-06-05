@@ -30,9 +30,9 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.container}>
-        <h1>Quer ler a mensagem?</h1>
+        <h1>Ir PRO Site?</h1>
         <div>
-          <a href="https://www.youtube.com/watch?v=K-a8s8OLBSE" target="_blank">SIM</a>
+        <a href="https://www.youtube.com/watch?v=K-a8s8OLBSE" target="_blank">SIM</a>
           <button
             className={`${styles.button} ${styles.noButton}`}
             onClick={handleNoButtonClick}
