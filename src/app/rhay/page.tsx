@@ -24,7 +24,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("Você tenha uma semana e uma segunda incrível assim como você é como pessoa!❤️  ")
+    alert("Tua luz alegra a alma das pessoas.❤️  ")
   }
 
   return (

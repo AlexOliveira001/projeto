@@ -24,7 +24,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("Que sua semana seja abençoada por Deus e que você nunca desiste de almejar seus objetivos! ❤️ ")
+    alert("A fonte de todo amor, Deus, está dentro de você. Sorria e aproveite este dia! ❤️ ")
   }
 
   return (
