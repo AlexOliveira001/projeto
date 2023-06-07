@@ -24,7 +24,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("A fonte de todo amor, Deus, está dentro de você. Sorria e aproveite este dia! ❤️ ")
+    alert("Nos olhos de Deus você é tudo aquilo que imagina e muito mais...❤️ ")
   }
 
   return (

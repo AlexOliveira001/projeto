@@ -24,7 +24,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("Tua luz alegra a alma das pessoas.❤️  ")
+    alert("Uma composição belíssima, criada pelas mãoes de Deus!❤️  ")
   }
 
   return (
