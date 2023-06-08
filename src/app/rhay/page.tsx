@@ -24,7 +24,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("Uma composição belíssima, criada pelas mãoes de Deus!❤️  ")
+    alert("Nos olhos de Deus você é tudo aquilo que imagina e muito mais...❤️ ")
   }
 
   return (
