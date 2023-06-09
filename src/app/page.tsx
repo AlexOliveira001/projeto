@@ -24,7 +24,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("Uma composição belíssima, criada pelas mãoes de Deus!❤️ ")
+    alert("As estrelas coitadas não brilham nem a metade do que você brilha! ✨❤️ ")
   }
 
   return (

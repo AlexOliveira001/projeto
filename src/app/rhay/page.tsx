@@ -24,7 +24,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("Nos olhos de Deus você é tudo aquilo que imagina e muito mais...❤️ ")
+    alert("Uma pessoa segura de si!")
   }
 
   return (
