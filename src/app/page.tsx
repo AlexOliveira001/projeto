@@ -24,7 +24,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("As estrelas coitadas não brilham nem a metade do que você brilha! ✨❤️ ")
+    alert("O sorriso dela é diferente dos outros, ela sorri com os olhos, sorri com a alma! ❤️ ")
   }
 
   return (
