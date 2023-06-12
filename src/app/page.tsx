@@ -24,7 +24,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("O sorriso dela é diferente dos outros, ela sorri com os olhos, sorri com a alma! ❤️ ")
+    alert("You're every line, you're every word, you're everything! ❤️ ")
   }
 
   return (

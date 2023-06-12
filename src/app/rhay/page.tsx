@@ -24,7 +24,7 @@ export default function Home() {
   };
 
   const handleYesButtonClick = () => {
-    alert("É o paraíso, suas curvas são cartões postais. ")
+    alert("Ela não tem noção do quanto ela é linda, e que quando sorri, mais bonita ainda. ")
   }
 
   return (
